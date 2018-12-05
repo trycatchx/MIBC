@@ -1,0 +1,175 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, maximum-scale=1, user-scalable=no"/>
+
+    <!--defaultCSS-->
+    <title>User Experience Program Statement</title>
+    <style type="text/css">
+        body
+        {
+        font-family: Segoe UI,"Microsoft YaHei", Georgia,Helvetica,Arial,sans-serif,宋体,
+        PMingLiU,serif;
+        font-size: 10.5pt;
+        line-height: 1.5;
+        }
+        html, body
+        {
+
+
+        }
+        h1 {
+        font-size:1.5em;
+        font-weight:bold;
+        }
+        h2 {
+        font-size:1.4em;
+        font-weight:bold;
+        }
+        h3 {
+        font-size:1.3em;
+        font-weight:bold;
+        }
+        h4 {
+        font-size:1.2em;
+        font-weight:bold;
+        }
+        h5 {
+        font-size:1.1em;
+        font-weight:bold;
+        }
+        h6 {
+        font-size:1.0em;
+        font-weight:bold;
+        }
+        img {
+        border:0;
+        max-width: 100%;
+        height: auto !important;
+        }
+        blockquote {
+        margin-top:0px;
+        margin-bottom:0px;
+        }
+        table {
+        border-collapse:collapse;
+        border:1px solid #bbbbbb;
+        }
+        td {
+        border-collapse:collapse;
+        border:1px solid #bbbbbb;
+        }
+    </style>
+</head>
+
+<body style=""><p class="MsoNormal" align="center"
+                  style="text-align: justify; margin-bottom: 10.5pt;">
+
+<p align="center" style="text-align: center; margin-bottom: 0.0001pt; line-height: 15.85pt;">
+    <b><span style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">User Experience Program Statement</span></b>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 15.85pt;"><a><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">Sungy
+Mobile Limited&nbsp;</span></a><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">(hereinafter
+“we” or “us”)&nbsp;is the owner of <a>the mobile app GO Speed</a><a name="OLE_LINK3"></a></span><font face="宋体">&nbsp;</font><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">In
+order to enhance user experience of our product and service, we develop the
+User Experience Program (hereinafter “Program”).  </span></p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 15.85pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">Program
+aims to collect and analyze some usage data of our product and service, and
+then improve the user experience. Program is free for user, and participation in
+Program will not interrupt or interfere with your mobile activities, such as by
+imposing pop-up dialog boxes, or requiring mail or telephone surveys, etc.  </span></p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 15.85pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">Your
+participation in Program is completely voluntary. You can choose to take part
+in or not before you launch GO Speed, and you are free to quit the Program at
+any time without any reason. Taking part or not will not affect your access
+to&nbsp;Go Speed. We recognize that user’s privacy is important, so we have
+created this Statement to explain the Program.  </span></p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 15.85pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">By agreeing
+to take part in Program means you CONSENT to us as follows. </span></p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 17.3pt;"><b><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">The
+Program collects the following types of information:</span></b>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 17.3pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">1.
+Feature usage statistics during AB Test: </span>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 17.3pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">Statistics
+during AB Test period about how you use our app, including what the actions you
+take when using the app (such as buttons you click on in the app),&nbsp;how
+frequently you use a certain feature, to what extent a feature is being used,
+and so on.</span>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 17.3pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">2.
+Basic application experience statistics: </span>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 17.3pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">Statistics
+about how the app behaves in consider of its performance, such as how long the
+junk is scanned, how much the junk is scanned and what is being scanned; </span>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 17.3pt;"><b><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">How
+your data is used:</span></b>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 17.3pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">Data
+collected pursuant to Program will be used only for the purpose of analyzing,
+evaluating, reviewing and improving the user experience of our product and
+service. We will not share your information with any third party and will not
+use your information for other commercial purposes, unless we obtain your
+consent. </span>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 17.3pt;"><b><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">The
+security of the data:</span></b>
+
+</p>
+
+<p style="text-align: justify; margin-bottom: 0.0001pt; line-height: 15.85pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">We&nbsp;are
+very concerned about safeguarding the confidentiality of your information. We take
+precautions – including administrative, physical and electronic measures to
+protect data from unauthorized access. Please be aware that no security measure
+that we take to protect your information is absolutely guaranteed to avoid
+unauthorized access or use of data which is impenetrable. </span>
+
+</p>
+
+<p style="text-align: justify; margin: 5pt 0in 0.0001pt 6.75pt; text-indent: -6.75pt; line-height: 15.85pt;"><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">If you have any questions about the information we collect or how
+it is used, please contact us at </span><a href="mailto:launcherproteam@gmail.com"><span
+        style="font-size:13.5pt;font-family:&quot;Times New Roman&quot;,serif">zboostteam@gmail.com</span></a><span
+        style="font-size: 13.5pt; font-family: 'Times New Roman', serif;">.</span></p></p>
+</body>
+</html>
